@@ -37,6 +37,26 @@ Hi, I am Arbi. A Creative and detail-oriented UX Designer with 5 years of experi
 - Selenium IDE
 - VS Code
 
+### Skills
+- Manual Testing
+- API Testing
+- Web Automation Testing
+- Mobile Automation Testing
+- Usability Testing
+- Javascript
+- HTML & CSS
+- Scrum
+- User Experience Design
+- SDLC
+
+### Course
+- [The Complete 2025 Software Testing Bootcamp](https://www.udemy.com/share/101r4S3@tSbBsk-UPBG8PNlp1a45Cs-9J9lPQrq8xupgKEPBJeduyCmtn4JI7MRlYUIZIEt4fA==/)
+  >[Certificate](https://drive.google.com/file/d/1kxefHk3jM2n0uB-5Szv7hXWcFbgus7ci/view?usp=sharing)
+- [Mini Bootcamp: Qa Engineer: Basic Automation & Testing](https://digitalskola.com/mini-bootcamp/qa-engineer)
+  >[Certificate](https://drive.google.com/file/d/1p9TqxWV-wEfESEYY_5mJgZyg_ySJdJkQ/view?usp=sharing)
+
+  
+
 
 
 
