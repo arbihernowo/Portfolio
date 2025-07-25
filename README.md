@@ -2,7 +2,7 @@
 ### About Me
 Hi, I am Arbi. A Creative and detail-oriented UX Designer with 5 years of experience designing user-centric digital solutions. Now transitioning into Software Quality Assurance, equipped with a strong foundation in user behavior analysis, attention to detail, and critical thinking. Eager and ready to apply skills in both manual testing and automation testing to ensure product quality, usability, and performance. Experienced in collaborating with cross-functional teams and passionate about delivering bug-free, seamless user experiences.
 
-[My LinkedIn Profile](https://www.linkedin.com/in/arbihernowo/)
+[My LinkedIn Profile](https://www.linkedin.com/in/arbihernowo/) | [Resume](https://drive.google.com/file/d/1aKGIzYUPzT7hg1leoLPYIt3j_FFQAJss/view?usp=sharing)
 ### My Projects
 
 #### Swag Labs
